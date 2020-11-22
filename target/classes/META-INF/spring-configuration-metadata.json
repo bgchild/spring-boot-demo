@@ -1,0 +1,12 @@
+{
+  "groups": [
+    {
+      "name": "jdbc",
+      "type": "javax.sql.DataSource",
+      "sourceType": "com.lk.config.JdbcConfig",
+      "sourceMethod": "dataSource()"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
